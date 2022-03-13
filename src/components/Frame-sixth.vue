@@ -31,7 +31,6 @@
                             <div class="text__value">ОООООООчень много</div>
                         </div>
                     </div>
-                    
                          <button class="form-total__button">Записаться на прием</button>
                 </div>
 
